@@ -13,6 +13,3 @@ for tit in soup.find_all('span', "ellip"):
         cnt += 1
 
 print("found amiibo:", cnt)
-
-# https://seculog.tistory.com/9
-# https://velog.io/@smj0818/깃허브-레파지토리-생성-연결
